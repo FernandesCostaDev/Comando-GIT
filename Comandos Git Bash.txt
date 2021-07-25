@@ -1,0 +1,6 @@
+Comandos para navegação em diretórios
+
+Windows e Linux:
+cd "nome da pasta" (entra na pasta em questão)
+cd .. (retorna diretório anterior)
+cd \ (retorna diretório raiz)
